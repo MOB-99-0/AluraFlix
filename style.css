@@ -1,9 +1,9 @@
 :root {
-  --primary-color: #3498db; /* Cor principal */
-  --secondary-color: #2ecc71; /* Cor secundária */
-  --background-color: #f4f4f4; /* Cor de fundo */
-  --text-color: #333; /* Cor do texto */
-  --hover-color: #2980b9; /* Cor ao passar o mouse */
+  --primary-color: #1195ec; /* Cor principal */
+  --secondary-color: #aeec01; /* Cor secundária */
+  --background-color: #000000; /* Cor de fundo */
+  --text-color: #d9db3f; /* Cor do texto */
+  --hover-color: #fbff00; /* Cor ao passar o mouse */
 }
 
 body {
