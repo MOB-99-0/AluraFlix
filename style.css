@@ -1,9 +1,9 @@
 
 /* Definindo a cor de fundo da página */
 body {
-  background-color: #000000; /* Alterar essa cor para qualquer cor que você preferir */
+  background-color: black /* Alterar essa cor para qualquer cor que você preferir */
   font-family: Arial, sans-serif;
-  color: #eeff00ce; /* Cor do texto */
+  color: yellow; /* Cor do texto */
   margin: 0;
   padding: 0;
   height: 100vh; /* Garante que o fundo ocupe toda a altura da tela */
