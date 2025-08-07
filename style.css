@@ -1,0 +1,24 @@
+:root {
+  --primary-color: #3498db; /* Cor principal */
+  --secondary-color: #2ecc71; /* Cor secundária */
+  --background-color: #f4f4f4; /* Cor de fundo */
+  --text-color: #333; /* Cor do texto */
+  --hover-color: #2980b9; /* Cor ao passar o mouse */
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+header {
+  background-color: var(--primary-color);
+}
+
+button {
+  background-color: var(--secondary-color);
+}
+
+button:hover {
+  background-color: var(--hover-color);
+}
